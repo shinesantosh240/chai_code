@@ -39,5 +39,10 @@ console.log("A:",nums)
 console.log("Result:",nums.slice(0,3))
 
 //console.log("Result:",)
-console.log("A:",nums)
+console.log("B:",nums)
 console.log("Result1",nums.splice(0,3))
+console.log("D:",nums)
+
+const newArrs = nums.join()
+
+console.log("C:",newArrs)
