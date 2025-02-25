@@ -41,3 +41,24 @@ if (userLoggin && debitcard){
 if(loggedinfromEmail||loggedinfromgoolge){
     console.log("I am logged in")
 }
+/***********************Switch case*************************************/
+
+const Month =3;
+
+switch(Month)
+{
+    case 1:
+        console.log("This month is January")
+        break;
+    case 2:
+        console.log("This month is February")
+        break;
+    case 3:
+        console.log("This month is March")
+        break;
+    case 4:
+        console.log("This month is April")
+        break;
+        default: console.log("This is not sure")
+        break;
+}
