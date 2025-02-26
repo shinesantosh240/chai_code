@@ -10,5 +10,5 @@ let arr=0;
 
 while(arr<=myArray.length){
     console.log(`The value of array : ${myArray[arr]}`);
-    arr = arr+1;
+    arr = arr+1
 }
