@@ -20,3 +20,7 @@ newap.set('US','United states of America')
 newap.set('IR','Ireland')
 
 console.log(newap);
+// for (const key in newap) {
+    
+//         console.log(key)
+//     }
